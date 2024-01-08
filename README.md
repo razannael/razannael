@@ -5,6 +5,9 @@
 <h2 align="left">About me</h2>
 
 ###
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=razannael" alt="Profile Views">
+</p>
 
 <p align="left">✨ Creating bugs since I first laid eyes on a keyboard in my early coding adventures.<br>📚 I'm currently learning new front-end technologies to level up my skills and stay ahead in the ever-evolving tech world.<br>🎯 Goals: To contribute to open-source projects, build impactful applications, and continue learning and growing as a developer.<br>🎲 Fun fact: I find coding challenges more thrilling than solving puzzles!</p>
 
