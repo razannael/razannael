@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nailrazan40@gmail.com**
 
-- ⚡ Fun fact **I find coding challenges more thrilling than solving puzzles!**
+- ⚡ Fun Fact: I name all my test variables after my favorite fictional characters. Sherlock_Holmes = True, of course. 🔍🕵️‍♂️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
