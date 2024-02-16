@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/razannael](https://github.com/razannael)
+- 📄 My CV [here](https://drive.google.com/file/d/14IksOOTn6p2zg_52sQO34o_VGIdAp7-u/view)
 
 - 💬 Ask me about **React**
 
