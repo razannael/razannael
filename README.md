@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Node js**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/razannael](https://github.com/razannael?tab=repositories))
-- 📄 My CV [here](https://drive.google.com/file/d/14IksOOTn6p2zg_52sQO34o_VGIdAp7-u/view?usp=sharing)
+- 📄 My CV [here](https://drive.google.com/file/d/14fmrxNx3XrR1LJ7c0PUFqhomO-FuQMDX/view?usp=drive_link)
 
 
 
