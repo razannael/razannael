@@ -15,7 +15,7 @@ I'm a 22-year-old Front-End Developer from Palestine, I bring a unique blend of 
 Behold the gallery of my creations, where each project is a story told through code. Step into my world [here](https://razan-portfolio.vercel.app/)
 
 ## Sharpening Skills with Code Challenges
-When I'm not developing apps or designing interfaces, I'm honing my problem-solving skills on LeetCode. Check out my progress and the challenges I've tackled on my [LeetCode profile](https://leetcode.com/ra_zan/)
+When I'm not developing apps or designing interfaces, I'm honing my problem-solving skills on LeetCode. Check out my progress on my [LeetCode profile](https://leetcode.com/ra_zan/)
 
 ## Fun Facts
 - I believe in the power of coffee and keystrokes. ☕🖥️
