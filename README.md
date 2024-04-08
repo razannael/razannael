@@ -1,4 +1,4 @@
-## Hello, I'm Razan Tuhaimer ✨
+## Hey, I'm Razan Tuhaimer ✨
 
 
 I'm a 22-year-old Front-End Developer from Palestine, I bring a unique blend of technical expertise and artistic vision to the digital realm. My toolkit is a curated collection of modern technologies that empower me to build seamless and interactive user experiences:
